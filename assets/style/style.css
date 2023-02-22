@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+}
+ol{
+	list-style-type: none;
+	color: #FFFFFF;
+	height: 18px;
+	max-width: 91px;
+	width: 100%;
+	size: 16px;
+	display: inline-block;
+}
+header{
+	background-color: #0020F4;
+	height: 387.56px;
+	max-width: 1920px;
+	width: 100%;
+	padding-top: 40px;
+	padding-left: 240px;
+}
+.title-text{
+	height: 33px;
+	max-width: 714px;
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	margin-right: 844px;
+}
+.image-text{
+	height: 600px;
+	max-width: 1195px;
+	width: 100%;
+	border: 15px;
+}
+section{
+	max-width: 1195px;
+	margin: auto;
+}
+.contact-text{
+	border: 28px;
+	background-color: #FFFFFF;
+	color: #171717;
+	border-radius: 28px;
+	padding-left: 9px;
+
+}
+.oneimg-text{
+	height: 219px;
+	max-width: 219px;
+	border-radius: 15px;
+
+}
+.p-text{
+	color: #171717;
+	size: 16px;
+	height: 177px;
+	max-width: 951px;
+	margin-right: 484px;
+	margin-top: 60px;
+}
+.pp-text{
+	color: #171717;
+	size: 16px;
+	height: 281px;
+	max-width: 951px;
+	margin-top: 50px;
+}
+.ppp-text{
+	color: #171717;
+	size: 16px;
+	height: 151px;
+	max-width: 951px;
+	margin-top: -30px;
+}
+/*ეს ზომები ბოლოს ჩემით ავიღე :D:D:D*/
+.info-text{
+	color: #FFFFFF;
+	
+}
